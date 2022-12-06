@@ -17,8 +17,9 @@ def main():
                 if len(set_of_codes) != len(incoming_codes[-4:]):
                     print("no marker received")
                 else:
+                    print(incoming_codes)
                     print("MARKER RECEIVED")
-                    print(incoming_codes+incoming_codes[-4:])
+                    print(incoming_codes[-4:])
                     marker_pos = letter_pos+1
                     break
     print(marker_pos)
