@@ -1,5 +1,7 @@
 input_path = "./input.txt"
-
+"""
+Not done yet
+"""
 
 def main():
     f = open(input_path, "r")

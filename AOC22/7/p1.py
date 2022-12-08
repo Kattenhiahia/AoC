@@ -1,4 +1,4 @@
-input_path = "./AOC22/7/input.txt"
+input_path = "./input.txt"
 """
 Not done yet
 """
