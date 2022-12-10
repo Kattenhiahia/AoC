@@ -1,0 +1,2 @@
+# Ignora all txt files, typically inputs
+*.txt
